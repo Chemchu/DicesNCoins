@@ -104,7 +104,7 @@ dist
 .tern-port
 
 
-.expo
-.expo-shared
+.expo/
+.expo-shared/
 
-.vscode
+.vscode/
